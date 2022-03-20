@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 
-[![website](./img/twitter-light.svg)](https://twitter.com/AnmolGa46309921)
-[![website](./img/twitter-dark.svg)](https://twitter.com/AnmolGa46309921)
+[![website](./img/twitter-light.svg)](https://twitter.com/AnmolGa46309921#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/AnmolGa46309921#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/anmol-garg-790516203/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/anmol-garg-790516203/ )
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/anmol-garg-790516203/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/anmol-garg-790516203/#gh-dark-mode-only )
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/anmol_garg2001/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/anmol_garg2001/#gh-dark-mode-only)
