@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Scholasticpal/Scholasticpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 
 ## I'm a Front End Developer and ML Enthusiast!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 🔭 I'm currently working on Visual Detection using ML
+- 🌱 I’m currently learning ML using Tensorflow
+- 👯 I’m looking to collaborate with other Web Developers and Tensorflow users
+- 🥅 2022 Goals: Create min 3 projects that cater to the community
+- ⚡ Fun fact: I love to read Self Help books and explore advancements in STEM community!
+- 😄 Pronouns: He/Him
 
 ### Connect with me:
 
