@@ -88,4 +88,4 @@ Here are some ideas to get you started:
 
 
 
-![Anmol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Scholasticpal&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Scholasticpal&theme=tokyonight_duo&fire=D825DD)](https://git.io/streak-stats)
+![Anmol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Scholasticpal&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight) ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Scholasticpal&theme=tokyonight_duo&fire=D825DD)](https://git.io/streak-stats)
