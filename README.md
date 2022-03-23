@@ -59,33 +59,6 @@ Here are some ideas to get you started:
 ---
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-2. 💪 Opened PR [#1580](https://github.com/anuraghazra/github-readme-stats/pull/1580) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. 🎉 Merged PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-5. 💪 Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-</details>
-
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/AnmolGa46309921
-[instagram]: https://www.instagram.com/anmol_garg2001/
-[linkedin]: https://www.linkedin.com/in/anmol-garg-790516203/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
 
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Scholasticpal&theme=tokyonight_duo&fire=D825DD)](https://git.io/streak-stats)
