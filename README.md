@@ -5,6 +5,12 @@
 
 Here are some ideas to get you started:
 
+
+Hi There! I am a Front End Developer and ML Enthusiast!
+I am Passionate about using my technical and management
+skills towards building products that positively impact people's
+lives and make a difference.
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
