@@ -5,12 +5,6 @@
 
 Here are some ideas to get you started:
 
-
-Hi There! I am a Front End Developer and ML Enthusiast!
-I am Passionate about using my technical and management
-skills towards building products that positively impact people's
-lives and make a difference.
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -27,7 +21,11 @@ lives and make a difference.
 
 ## I'm a Front End Developer and ML Enthusiast!!
 
-- 🔭 I'm currently working on Visual Detection using ML
+I am Passionate about using my technical and management
+skills towards building products that positively impact people's
+lives and make a difference.
+
+- 🔭 I'm currently working on a project of Object Detection Model using ML
 - 🌱 I’m currently learning ML using Tensorflow
 - 👯 I’m looking to collaborate with other Web Developers and Tensorflow users
 - 🥅 2022 Goals: Create min 3 projects that cater to the community
