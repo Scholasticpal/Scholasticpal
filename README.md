@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ## I'm a Front End Developer and ML Enthusiast!!
 
 <p align="center"> 
-I am Passionate about using my technical and management
-skills towards building products that positively impact people's
-lives and make a difference. </p>
+I am passionate about using my technical and management <br>
+skills towards building products that positively <br>
+ impact people's lives and make a difference. </p>
 
 - 🔭 I'm currently working on a project of Object Detection Model using ML
 - 🌱 I’m currently learning ML using Tensorflow
