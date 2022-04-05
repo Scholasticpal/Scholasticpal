@@ -24,9 +24,12 @@ Here are some ideas to get you started:
 <p align="center"> 
 I am passionate about using my technical and management <br>
 skills towards building products that positively <br>
- impact people's lives and make a difference. </p>
+ impact people's lives and make a difference!🌏 </p>
+ 
+ <br>
+ <br>
 
-- 🔭 I'm currently working on a project of Object Detection Model using ML
+- 🔭 I'm currently working on a project based on Object Detection Model using ML
 - 🌱 I’m currently learning ML using Tensorflow
 - 👯 I’m looking to collaborate with other Web Developers and Tensorflow users
 - 🥅 2022 Goals: Create min 3 projects that cater to the community
