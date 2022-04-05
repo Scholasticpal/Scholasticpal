@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## I'm a Front End Developer and ML Enthusiast!!
 
 <p align="center"> 
-I am passionate about using my technical and management <br>
+Passionate about using my technical and management <br>
 skills towards building products that positively <br>
  impact people's lives and make a difference!🌏 </p>
  
