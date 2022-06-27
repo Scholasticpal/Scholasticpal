@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-## I'm a Front End Developer and ML Enthusiast!!
+## I'm a Full Stack Web Developer and ML Enthusiast!!
 
 <p align="center"> 
 Passionate about using my technical and management <br>
