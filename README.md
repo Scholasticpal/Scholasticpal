@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-## I'm a Full Stack Web Developer and ML Enthusiast!!
+## I'm a Full Stack Web Developer!
 
 <p align="center"> 
 Passionate about using my technical and management <br>
@@ -29,10 +29,10 @@ skills towards building products that positively <br>
  <br>
  <br>
 
-- 🔭 I'm currently working on a project based on Object Detection Model using ML
-- 🌱 I’m currently learning ML using Tensorflow
-- 👯 I’m looking to collaborate with other Web Developers and Tensorflow users
-- 🥅 2022 Goals: Create min 3 projects that cater to the community
+- 🔭 I'm currently working on a project based on MERN stack
+- 🌱 I’m currently learning about Data Structures and Algorithms in CPP Programming
+- 👯 I’m looking to collaborate with other Web Developers and Coders
+- 🥅 2023 Goals: Sharpen my DSA Skills and keep working on Web Projects
 - ⚡ Fun fact: I love to read Self Help books and explore advancements in STEM community!
 - 😄 Pronouns: He/Him
 
