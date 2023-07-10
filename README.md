@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-## I'm a Full Stack Web Developer!
+## I'm a Full Stack Web & Cloud Developer!
 
 <p align="center"> 
 Passionate about using my technical and management <br>
@@ -29,12 +29,11 @@ skills towards building products that positively <br>
  <br>
  <br>
 
-- 🔭 I'm currently working on a project based on MERN stack
-- 🌱 I’m currently learning about Data Structures and Algorithms in CPP Programming
-- 👯 I’m looking to collaborate with other Web Developers and Coders
-- 🥅 2023 Goals: Sharpen my DSA Skills and keep working on Web Projects
-- ⚡ Fun fact: I love to read Self Help books and explore advancements in STEM community!
-- 😄 Pronouns: He/Him
+- 🔭 I'm currently working on a project built using MERN and AWS Amplify.
+- 🌱 I’m currently learning about Data Structures and Algorithms in C++ Programming
+- 👯 I’m looking to collaborate with other Cloud & Web Developers.
+- 🥅 2023 Goals: Contribute to an organization using my skills as a Software Engineer.
+- ⚡ Fun fact: I love to read Self Help books and explore advancements in the STEM community!
 
 ### Connect with me:
 
