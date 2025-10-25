@@ -85,9 +85,9 @@ A passionate and driven Software Development Engineer with a strong foundation i
 
 Here are a few projects that I've enjoyed working on. Feel free to explore the repositories for more details!
 
-* **[Microservice based Web Books App](https://github.com/Scholasticpal/MERN-Microservice-App-K8s-Deployment)**: A comprehensive book management application built with a microservice architecture using the MERN stack and deployed with Kubernetes.
-* **[Heritians - Open-Source with Govt. of India](https://github.com/Scholasticpal/Heritians-WebApp)**: An open-source web project in collaboration with the Government of India to promote and preserve cultural heritage.
-* **[Full stack Notes App on AWS](https://github.com/Scholasticpal/AWS-Amplify-React-App-FeatherPen)**: A responsive full-stack notes application deployed on the cloud using various AWS services like Amplify, Cognito, GraphQL, and S3.
+* **[Full stack Notes App on AWS](https://github.com/Nexus-Learning-LMS/nexus-lms)**: Full-Stack Cloud based LMS | Used by over 55 students, 6 countries
+* **[Microservice based Web Books App](https://github.com/Scholasticpal/AWS-amplify-react-app)**: A comprehensive book management application built with a microservice architecture using the MERN stack and AWS
+* **[Heritians - Open-Source with Govt. of India](https://github.com/Heritians)**: An open-source web project in collaboration with the Government of India to promote and preserve cultural heritage.
 
 ---
 
